@@ -4,3 +4,4 @@
        nav a{ margin-right: 16px; text-decoration: none; font-weight: bold;}
        nav a:hover {text-decoration: underline;}
         img { max-width: 100%; height: auto; }
+        footer {font-size: 13px; text-align: center; color: #6B5E73; border-top: 1px solid #3B1F4A ;}
